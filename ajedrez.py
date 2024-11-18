@@ -2,7 +2,7 @@ from typing import Dict, List, Set, Tuple, Optional
 import numpy as np
 from piezas import GestorPiezas, MovimientosTablero, MovimientoAjedrez, TipoMovimiento
 
-
+# hoal tilin
 class AgenteAjedrez:
     # Constantes para piezas
     VACIO = '...'
